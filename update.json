@@ -1,6 +1,6 @@
 {
-    "version": "v1.1",
-    "versionCode": "1018",
+    "version": "v1.2",
+    "versionCode": "1020",
     "zipUrl": "https://github.com/jjogit/ZmodX-Tweak/releases/download/NREZv7.0/ZmodXv7.0.zip",
-    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md"
+    "changelog": "https://raw.githubusercontent.com/jjogit/ZTE-x-UNLOCKER/main/change.log"
 }
