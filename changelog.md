@@ -1,16 +1,8 @@
 Versi 1.2 (1020) :
-- Module Update
-- Fixed Bootloop Issue
-
-Versi 1.1 Stable (1012) :
-- Support Mobile Legend
-- Optimizing Performance
-- Smooth Ui
-- And More
-
-Versi 1.1 Alpha (1011) :
-- Fixed Bug
-- And More
+- Pembaruan Fitur Fake Device
+- Memperbaiki Masalah Bootlop
+- Ui Lebih Fresh Dan Smooth
+- Dan Lain-lain 
   
-
 Telegram : https://t.me/ZmodX
+Credits @jjogit
