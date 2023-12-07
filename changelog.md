@@ -4,5 +4,4 @@ Versi 1.3 Stabil (1030) :
 - Ui Lebih Fresh Dan Smooth
 - Dan Lain-lain 
   
-Telegram : https://t.me/ZmodX
-Credits @jjogit
+Telegram : https://t.me/ZmodX 
